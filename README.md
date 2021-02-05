@@ -1,5 +1,5 @@
 # Optimisation of travel time when travelling in an urban environment
-This project was made in 2018-2019 for the entrance exams for the Grandes Écoles with [Hugo Paris](). We asked ourselves whether routing algorithms could be adapted to time-dependent graphs. We implemented the Djikstra algorithm in the case of a network with traffic lights. Then, we applied our model to real world data using OpenSreetMap. 
+This project was made in 2018-2019 for the entrance exams for the Grandes Écoles with [Hugo Paris](https://www.linkedin.com/in/hugo-paris-497571195/). We asked ourselves whether routing algorithms could be adapted to time-dependent graphs. We implemented the Djikstra algorithm in the case of a network with traffic lights. Then, we applied our model to real world data using OpenSreetMap. 
 
 ![comparison](comp_trajets.png)
 
